@@ -7,10 +7,11 @@ with open("README.md", "w+") as fp:
     for line in f:
         fp.writelines(line)
 
-    for folder in list(os.listdir(".")):
+    subfolders = next(os.walk('.'))[1]
+    for folder in list(subfolders):
         if folder == ".git":
             continue
 
-        msg = '''* [%s](%s) \n''' % (folder, folder)
+        msg = '''* [%s](%s) \n''' % (folder, folder.replace(" ", "\ "))
 
         fp.writelines(msg)
