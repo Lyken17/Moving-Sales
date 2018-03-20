@@ -12,6 +12,6 @@ with open("README.md", "w+") as fp:
         if folder == ".git":
             continue
 
-        msg = '''* [%s](%s) \n''' % (folder, folder.replace(" ", "\ "))
+        msg = '''* [%s](%s) \n''' % (folder.replace("_", " "), folder)
 
         fp.writelines(msg)
