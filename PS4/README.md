@@ -12,5 +12,8 @@ It is the first version of PS4, not slim or pro.
 3. The last of us
 4. Final Fantasy
 
+## Price
+$200
+
 ## Pics
 To be added.
