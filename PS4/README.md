@@ -1,5 +1,5 @@
 # Playstation 4
-It is the first version of PS4, not slim or pro.
+It is the first version of PS4, neither slim nor pro.
 
 
 ## Specs
