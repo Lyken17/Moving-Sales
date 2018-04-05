@@ -11,7 +11,7 @@ Notice: this is the 2012 version, not trash can
 
 ## Prices
 
-1400
+Bought with 1200, uppgrade cost me about 500. Now selling with 1100.
 
 ## Pics
 To be added.
